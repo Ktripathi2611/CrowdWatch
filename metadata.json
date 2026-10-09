@@ -1,0 +1,6 @@
+{
+  "name": "CrowdWatch",
+  "description": "Decentralized real-time community intelligence platform to observe, report with evidence, verify, and stay safe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

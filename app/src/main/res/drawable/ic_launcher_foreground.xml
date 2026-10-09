@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pin outer shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C41.85,26 32,35.85 32,48 C32,63.2 50.8,79.5 52.8,81.2 C53.5,81.8 54.5,81.8 55.2,81.2 C57.2,79.5 76,63.2 76,48 C76,35.85 66.15,26 54,26 Z" />
+    <!-- Pin inner circular lens / eye aperture -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,34 C46.27,34 40,40.27 40,48 C40,55.73 46.27,62 54,62 C61.73,62 68,55.73 68,48 C68,40.27 61.73,34 54,34 Z" />
+    <!-- Pupil / community focal iris -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,41 C50.13,41 47,44.13 47,48 C47,51.87 50.13,55 54,55 C57.87,55 61,51.87 61,48 C61,44.13 57.87,41 54,41 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56.5,43.5 A 2,2 0 1,1 56.5,47.5 A 2,2 0 1,1 56.5,43.5" />
+</vector>
